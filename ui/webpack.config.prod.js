@@ -74,7 +74,7 @@ module.exports = {
         new HtmlWebpackPlugin({
             template: './src/index.html',
             filename: '../index.html',
-            title: 'ThingsBoard',
+            title: '荣联康瑞（北京）医疗信息技术有限公司',
             inject: 'body',
         }),
         new webpack.optimize.OccurrenceOrderPlugin(),
