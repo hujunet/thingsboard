@@ -15,7 +15,7 @@
  */
 /* eslint-disable import/no-unresolved, import/default */
 
-import logoSvg from '../../svg/logo.png';
+import logoSvg from '../../svg/logo.svg';
 
 /* eslint-enable import/no-unresolved, import/default */
 
